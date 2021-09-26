@@ -25,9 +25,9 @@ public class HttpServiceImpl implements HttpService {
     public int httpClientWithBasicAuth(String project) {
         try {
             // 创建HttpClientBuilder
-            String username = "admin";
-            String password = "digiwin&user008";
-            String uri = "http://47.96.181.128:1143/jenkins/job/" + project +"/buildWithParameters?token=Brawn_wireless";
+            String username = "xxxx";
+            String password = "xxxx";
+            String uri = "http://xxxxxxx:8080/jenkins/job/" + project +"/buildWithParameters?token=xxxxxxxx";
 
             HttpClientBuilder httpClientBuilder = HttpClientBuilder.create();
             CloseableHttpClient closeableHttpClient = httpClientBuilder.build();
