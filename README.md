@@ -1,2 +1,2 @@
 # jenkins_plugins_VS_jujubeservice
-Through the secondary development of the source code of dingtalk plugin 1.9, the display requirements are realized, the audit is realized, the jujubeservice is called, and the Jenkins API is requested to realize the mobile phone audit and release.
+通过对dingtalk plugin 1.9源代码的二次开发，实现了显示需求，实现了审计，调用了自己的jujubeService，并请求Jenkins API实现手机审计发版。
